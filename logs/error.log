@@ -1,6 +1,1 @@
-[ERROR][25/03/2023 20:43:10]    DiscordAPIError[50035]: Invalid Form Body
-application_id[NUMBER_TYPE_COERCE]: Value "undefined" is not snowflake.
-[ERROR][25/03/2023 20:44:01]    DiscordAPIError[50035]: Invalid Form Body
-application_id[NUMBER_TYPE_COERCE]: Value "undefined" is not snowflake.
-[ERROR][25/03/2023 20:45:20]    DiscordAPIError[50035]: Invalid Form Body
-application_id[NUMBER_TYPE_COERCE]: Value "undefined" is not snowflake.
+
