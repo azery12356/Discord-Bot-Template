@@ -4,7 +4,7 @@ global.log = require("./func/log.js");
 const Discord = require('discord.js'),
 	fs = require('fs'),
 	path = require('node:path'),
-    commandsPath = path.join(__dirname, 'commands'),
+    	commandsPath = path.join(__dirname, 'commands'),
 	log = global.log;
 
 require("./func/registerCommands");
